@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+  <!--
+    This is the template svg file.
+    Please remove this comment in your icon.
+  -->
+  <!--
+    Please note, that we would create human readable svg icons.
+    The optimal icon size is minimal 64x64 and maximal 1024x1024.
+    Per default use a icon size from 512x512.
+  -->
+
+  <!--
+    Please write a title and fill the description fields
+  -->
+  <title>Template SVG</title>
+  <desc>
+    Description: descripe your image
+    Author/s: The author/s of icon
+  </desc>
+
+  <!--
+    Use style predefinition to avoid redudant code.
+  -->
+  <style type="text/css">
+    .examplefill rect {
+      fill: #55faff;
+    }
+
+    .examplestroke {
+      stroke: #68df4a;
+    }
+  </style>
+  <g class="examplefill">
+    <!--
+      Please use groups to split your svg in multiple parts.
+      It's a good idea to use the groups like image layer.
+    -->
+    <rect width="64" height="128"></rect>
+    <rect width="64" height="128" x="64" class="examplestroke"></rect>
+  </g>
+</svg>
